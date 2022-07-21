@@ -1,0 +1,15 @@
+.carrito{
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color:gray;
+    width: 400px;
+
+}
+
+button{
+    color: blue;
+    background-color: rgb(9, 255, 0);
+    border-color:red;
+    border-style:double;
+}
